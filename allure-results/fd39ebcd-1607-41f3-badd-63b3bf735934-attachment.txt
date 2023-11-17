@@ -1,7 +1,0 @@
----------------------------------
-User created successfully
-Firstname: testa
-Lastname: testu
-Email: test75572@mailinator.com
----------------------------------
-Navigating to https://stage.gcmasia.com

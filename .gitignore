@@ -2,8 +2,8 @@ node_modules/
 /test-results/
 /playwright-report/
 /playwright/.cache/
-/allure-reports
-/allure-results
+allure-reports
+allure-results
 /allure-reports/
 /allure-results/
 .env

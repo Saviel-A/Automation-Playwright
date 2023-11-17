@@ -1,8 +1,0 @@
----------------------------------
-User created successfully
-Firstname: testa
-Lastname: testu
-Email: test35582@mailinator.com
----------------------------------
-Navigating to https://www.gcmasia.co/
-Successfully navigated to https://www.gcmasia.co/.
