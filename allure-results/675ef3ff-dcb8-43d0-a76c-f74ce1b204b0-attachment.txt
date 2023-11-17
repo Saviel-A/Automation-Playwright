@@ -1,0 +1,6 @@
+User created successfully
+Firstname: savi
+Lastname: a
+Email: savi9695@mailinator.com
+Navigating to https://www.fortrade.com/
+Successfully navigated to https://www.fortrade.com/.

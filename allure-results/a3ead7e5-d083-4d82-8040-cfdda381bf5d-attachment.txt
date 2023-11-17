@@ -1,0 +1,5 @@
+User created successfully
+Firstname: savi
+Lastname: a
+Email: savi9695@mailinator.com
+Navigating to https://stage.fortrade.com

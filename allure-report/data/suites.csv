@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 17 16:34:13 IST 2023","Fri Nov 17 16:34:29 IST 2023","15861","chromium","leader\web\homepage.spec.ts","Gcmasia Homepage","","","Navigate to Gcmasia",""
+"passed","Fri Nov 17 16:34:13 IST 2023","Fri Nov 17 16:34:25 IST 2023","11394","chromium","leader\web\homepage.spec.ts","Fortrade Homepage","","","Navigate to Fortrade",""
+"passed","Fri Nov 17 16:34:13 IST 2023","Fri Nov 17 16:34:35 IST 2023","21380","chromium","leader\web\homepage.spec.ts","Kapitalrs Homepage","","","Navigate to Kapitalrs",""
+"failed","Fri Nov 17 16:34:13 IST 2023","Fri Nov 17 16:34:20 IST 2023","6810","chromium","leader\web\homepage.spec.ts","Pro Homepage","","","Navigate to Pro",""
