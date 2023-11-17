@@ -24,18 +24,18 @@ export default defineConfig({
 
   globalSetup: './utils/globalSetup.ts',
   projects: [
-    // {
-    //   name: 'chromium',
-    //   use: {
-    //     ...devices['Desktop Chrome'],
-    //   },
-    // },
     {
-      name: 'Mobile Safari',
+      name: 'chromium',
       use: {
-        ...devices['iPhone 13'],
-        //  viewport: { width: 1280, height: 720 },
+        ...devices['Desktop Chrome'],
       },
     },
+    // {
+    //   name: 'Mobile Safari',
+    //   use: {
+    //     ...devices['iPhone 13'],
+    //     //  viewport: { width: 1280, height: 720 },
+    //   },
+    // },
   ],
 });
